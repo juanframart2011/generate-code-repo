@@ -21,6 +21,5 @@ public class Generate_Code_Obejct {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
-    
+    }   
 }
